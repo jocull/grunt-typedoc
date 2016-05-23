@@ -33,7 +33,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "typedoc": "https://github.com/jocull/typedoc.git#v0.3"
+    "typedoc": "https://github.com/TypeStrong/typedoc.git#2e855cf8c62c7813ac62cb1ef911c9a0c5e034c2"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
